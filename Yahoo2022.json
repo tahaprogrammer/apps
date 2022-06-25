@@ -19,10 +19,10 @@
 
 	],
 
-	"APP_KEY": "",
-	"BANNER_PLACEMENT": "",
-	"INTERSTITIAL_PLACEMENT": "",
-	"whichAds": 0,
+	"APP_KEY": "1560c7909",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+	"whichAds": 1,
 	"admob_banner": "",
 	"admob_interstitial": ""
 
