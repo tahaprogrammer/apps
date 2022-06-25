@@ -1,0 +1,29 @@
+{
+
+	"web_sites": [
+
+		{
+			"url": "https://www.gmail.com/",
+			"name": "Gmail"
+		}, {
+			"url": "https://outlook.live.com/",
+			"name": "Outlook"
+		}, {
+			"url": "https://mail.yahoo.com/",
+			"name": "Yahoo"
+		}, {
+			"url": "https://www.yahoo.com/news/weather/",
+			"name": "yahoo weather"
+		}
+
+
+	],
+
+	"APP_KEY": "",
+	"BANNER_PLACEMENT": "",
+	"INTERSTITIAL_PLACEMENT": "",
+	"whichAds": 0,
+	"admob_banner": "",
+	"admob_interstitial": ""
+
+}
