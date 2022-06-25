@@ -1,29 +1,31 @@
 {
 
-	"web_sites": [
-
-		{
-			"url": "https://www.gmail.com/",
-			"name": "Gmail"
-		}, {
-			"url": "https://outlook.live.com/",
-			"name": "Outlook"
-		}, {
-			"url": "https://mail.yahoo.com/",
-			"name": "Yahoo"
-		}, {
-			"url": "https://www.yahoo.com/news/weather/",
-			"name": "yahoo weather"
-		}
-
-
-	],
+	"admob_banner": "123",
+	"admob_inter": "123",
 
 	"APP_KEY": "1560c7909",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
-	"whichAds": 1,
-	"admob_banner": "",
-	"admob_interstitial": ""
 
+	"whichAds": 1,
+
+	"popAppLink": "",
+	"popAppName": "",
+	"popAppImage": "",
+	"popAppPackage": "",
+	"popAppIsActive": false,
+
+	"PrivacyPolicy": "https://sites.google.com/view/said-developer-privacy",
+	"MoreApps": "",
+	"button1": "Begin",
+
+	"BUTTON_NAME_1": "Gmail",
+	"BUTTON_NAME_2": "Outlook",
+	"BUTTON_NAME_3": "Yahoo",
+	"BUTTON_NAME_4": "yahoo weather",
+
+	"BUTTON_URL_1": "https://www.gmail.com/",
+	"BUTTON_URL_2": "https://outlook.live.com/",
+	"BUTTON_URL_3": "https://mail.yahoo.com/",
+	"BUTTON_URL_4": "https://www.yahoo.com/news/weather/"
 }
